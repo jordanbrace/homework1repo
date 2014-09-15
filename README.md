@@ -1,4 +1,6 @@
 homework1repo
 =============
 
-a test repository
+a different description
+
+This is a line from RStudio
