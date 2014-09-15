@@ -1,0 +1,12 @@
+## Get Gapminder Data
+gDat<-read.delim(file="http://tiny.cc/gapminder")
+str(gDat)
+head(gDat)
+tail(gDat)
+names(gDat)
+dim(gDat)
+nrow(gDat)
+ncol(gDat)
+length(gDat)
+summary(gDat)
+unique(gDat$country)
